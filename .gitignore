@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+logs/
+*.log
+data/tasks.csv
+*.tmp
