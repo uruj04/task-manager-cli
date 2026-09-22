@@ -14,6 +14,23 @@ A professional, menu-driven command line application for managing tasks, with fu
 - **Exception handling** with custom errors, plus logging to `logs/taskmanager.log`
 - **Unit tests** for business logic and storage
 
+
+
+
+## Screenshots
+
+**Task list**
+![Task list](screenshots/task-list.png)
+
+**Add / update a task**
+![Add or update a task](screenshots/add-task.png)
+
+**Search**
+![Search](screenshots/search.png)
+
+**Delete a task**
+![Delete a task](screenshots/delete-task.png)
+
 ## Requirements
 
 - Python 3.11 or newer
