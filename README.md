@@ -39,7 +39,7 @@ A professional, menu-driven command line application for managing tasks, with fu
 ## Installation
 
 ```bash
-git clone https://github.com/<uruj04>/task-manager-cli.git
+git clone https://github.com/uruj04/task-manager-cli.git
 cd task-manager-cli
 ```
 
@@ -115,4 +115,4 @@ python -m unittest discover -v
 ## Author
 
 **<Your Name>** — Python Internship, Algoryx
-[LinkedIn](https://linkedin.com/in/<mohd-uruj-a1207038a>) · [GitHub](https://github.com/<uruj04>)
+[LinkedIn](https://linkedin.com/in/mohd-uruj-a1207038a) · [GitHub](https://github.com/uruj04)
